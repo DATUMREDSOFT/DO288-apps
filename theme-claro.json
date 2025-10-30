@@ -1,0 +1,32 @@
+{
+  "name": "Tema Claro",
+  "description": "Tema  con fondo blanco y líneas gris oscuro",
+  "background": "#FFFFFF",
+  "styles": {
+    "element": {
+      "background": "#FFFFFF",
+      "color": "#3C4557",
+      "stroke": "#3C4557"
+    },
+    "person": {
+      "shape": "Person",
+      "background": "#FFFFFF",
+      "color": "#3C4557",
+      "stroke": "#3C4557"
+    },
+    "softwareSystem": {
+      "background": "#FFFFFF",
+      "color": "#3C4557",
+      "stroke": "#3C4557"
+    },
+    "container": {
+      "background": "#FFFFFF",
+      "color": "#3C4557",
+      "stroke": "#3C4557"
+    },
+    "relationship": {
+      "color": "#3C4557",
+      "thickness": 2
+    }
+  }
+}
