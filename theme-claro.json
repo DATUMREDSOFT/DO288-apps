@@ -1,6 +1,7 @@
 {
   "name": "Tema Claro",
   "description": "Tema  con fondo blanco y líneas gris oscuro",
+  "background": "#FFFFFF",
   "styles": {
     "element": {
       "background": "#FFFFFF",
